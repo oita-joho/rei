@@ -18,6 +18,7 @@
 def hello():
     print("Hello, GitHub!")
 ```
+好きな寿司ネタは<mark>炙りサーモン</mark>です。
 <pre>
 
 **AAA**
