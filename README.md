@@ -5,7 +5,7 @@
 
 好きな寿司ネタは
 
-# $\color{red}{\text{マグロ}}$
+# $\color{red}{\huge\text{マグロ}}$
 
 です。
 
