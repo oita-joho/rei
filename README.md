@@ -3,11 +3,7 @@
 好きな寿司ネタは $\color{red}{\text{赤文字}}$ です。
 
 
-好きな寿司ネタは
-
-# $\color{red}{\huge\text{マグロ}}$
-
-です。
+好きな寿司ネタは $\color{red}{\huge\text{マグロ}}$ です。
 
 $\color{red}{\text{マグロ}}$
 
