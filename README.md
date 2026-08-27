@@ -2,7 +2,7 @@
 ### 探究テーマ
 
 
- <center>「国東市の〇」</center> 
+<center>「国東市の〇」</center> 
 
  
 
