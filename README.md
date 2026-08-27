@@ -3,7 +3,7 @@
 
 
 <center><font color="red" size="6"><b>「国東市の〇」</b></font></center>
-<p align="center">「国東市の〇」</p>
+<p align="center"><font color="red" size="6"><b>「国東市の〇」</b></font></p>
 
 
 好きな寿司ネタは $\color{red}{\huge\text{マグロ}}$ です。
