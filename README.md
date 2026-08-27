@@ -28,3 +28,4 @@ def hello():
 </pre>
 > [!NOTE]
 > 注記...
+$\color{red}{\text{赤文字}}$
