@@ -5,7 +5,7 @@
 <center>「国東市の〇」</center>
 
 
-好きな寿司ネタは $\color{red}{\text{赤文字}}$ です。
+<center><font color="red" size="6"><b>「国東市の〇」</b></font></center>
 
 
 好きな寿司ネタは $\color{red}{\huge\text{マグロ}}$ です。
