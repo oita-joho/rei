@@ -24,3 +24,4 @@ def hello():
 
 **BBB**
 </pre>
+`#f00`
