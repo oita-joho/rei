@@ -24,4 +24,5 @@ def hello():
 
 **BBB**
 </pre>
-`#f00`
+> [!NOTE]
+> 注記...
