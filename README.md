@@ -2,7 +2,6 @@
 ### 探究テーマ
 
 
-<center><font color="red" size="6"><b>「国東市の〇」</b></font></center>
 <p align="center"><font color="red" size="20"><b>「国東市の〇」</b></font></p>
 
 
