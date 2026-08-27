@@ -17,7 +17,9 @@
 # 複数行のコードブロック
 def hello():
     print("Hello, GitHub!")
+```
 <pre>
+
 **AAA**
 
 **BBB**
